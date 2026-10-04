@@ -1,0 +1,6 @@
+{
+  "name": "ShopSphere – Full Stack E-Commerce Shopping Platform",
+  "description": "Complete full-stack Django e-commerce shopping platform with product catalog, search & filters, cart, checkout, order tracking timeline, admin dashboard, voice assistant, and complete file-by-file Django source code & viva guide.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
